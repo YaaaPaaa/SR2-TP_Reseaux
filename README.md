@@ -6,5 +6,5 @@ Département d'Informatique
 Faculté Sciences et Ingénierie  
 Université de Toulouse
 
-(Pour compiler, il faut faire "make tddX" avec X : la version du tdd désiré)
+(Pour compiler, il faut faire "make tddX" avec X : la version du tdd désiré)  
 (Pour exécuter, lancer d'abord le récepteur './bin/recepteur' et ensuite l'émetteur './bin/emetteur')
